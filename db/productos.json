@@ -1,0 +1,83 @@
+[
+    {
+      "code": 1,
+      "title": "Producto 1",
+      "description": "Descripción del Producto 1",
+      "price": 99.99,
+      "thumbnail": "img1.jpg",
+      "stock": 15
+    },
+    {
+      "code": 2,
+      "title": "Producto 2",
+      "description": "Descripción del Producto 2",
+      "price": 49.99,
+      "thumbnail": "img2.jpg",
+      "stock": 20
+    },
+    {
+      "code": 3,
+      "title": "Producto 3",
+      "description": "Descripción del Producto 3",
+      "price": 149.99,
+      "thumbnail": "img3.jpg",
+      "stock": 8
+    },
+    {
+      "code": 4,
+      "title": "Producto 4",
+      "description": "Descripción del Producto 4",
+      "price": 79.99,
+      "thumbnail": "img4.jpg",
+      "stock": 12
+    },
+    {
+      "code": 5,
+      "title": "Producto 5",
+      "description": "Descripción del Producto 5",
+      "price": 199.99,
+      "thumbnail": "img5.jpg",
+      "stock": 5
+    },
+    {
+      "code": 6,
+      "title": "Producto 6",
+      "description": "Descripción del Producto 6",
+      "price": 69.99,
+      "thumbnail": "img6.jpg",
+      "stock": 25
+    },
+    {
+      "code": 7,
+      "title": "Producto 7",
+      "description": "Descripción del Producto 7",
+      "price": 119.99,
+      "thumbnail": "img7.jpg",
+      "stock": 18
+    },
+    {
+      "code": 8,
+      "title": "Producto 8",
+      "description": "Descripción del Producto 8",
+      "price": 89.99,
+      "thumbnail": "img8.jpg",
+      "stock": 30
+    },
+    {
+      "code": 9,
+      "title": "Producto 9",
+      "description": "Descripción del Producto 9",
+      "price": 109.99,
+      "thumbnail": "img9.jpg",
+      "stock": 7
+    },
+    {
+      "code": 10,
+      "title": "Producto 10",
+      "description": "Descripción del Producto 10",
+      "price": 59.99,
+      "thumbnail": "img10.jpg",
+      "stock": 22
+    }
+  ]
+  
